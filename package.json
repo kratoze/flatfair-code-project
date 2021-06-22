@@ -1,0 +1,12 @@
+{
+  "name": "flatfair-code-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Code test for Junior Product engineer role at flatfair",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Philip Vernon",
+  "license": "ISC"
+}
